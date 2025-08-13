@@ -6,12 +6,12 @@
 **Team ‘Machine Not Learning’**
 
 ## Team Members
-- Pranav Dalvi (GitHub: [PRANAVD-10](https://github.com/PRANAVD-10))
-- Isha Agarwal (GitHub: [ishaag110](https://github.com/ishaag110))
-- Harika Gangu (GitHub: [hgangu2905](https://github.com/hgangu2905))
-- Sukesh Krishna Meda (GitHub: [sukeshkrishna](https://github.com/sukeshkrishna))
-- Kushwanth Sai Chandu Meesala (GitHub: [Kush0528](https://github.com/Kush0528))
-
+- Pranav Dalvi 
+- Isha Agarwal 
+- Harika Gangu 
+- Sukesh Krishna Meda 
+- Kushwanth Sai Chandu Meesala
+  
 ## Under the guidance of
 Assistant Prof. Joshua Introne
 
@@ -140,4 +140,5 @@ By focusing on these areas, we aim to improve our model's utility and relevance,
 
 ## Conclusion
 Our project marks a significant advancement in using machine learning to understand and predict how new constructions impact housing prices. The models created through this initiative offer stakeholders valuable tools for forecasting and planning for market changes. However, there is still room for improvement regarding data granularity and model complexity. Ongoing development and refinement of these tools will be essential to ensure their continued usefulness in a rapidly evolving market landscape.
+
 
